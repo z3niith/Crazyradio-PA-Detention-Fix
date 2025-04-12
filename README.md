@@ -97,7 +97,7 @@ Once in bootloader mode, the device should show up as a USB drive named `Crazyra
 ---
 
 ### 7. **Installing USB driver on Windows**
-###After installing the firmware, reopen Zadig and select Crazyradio 2 
+After installing the firmware, reopen Zadig and select Crazyradio 2 
 1. The current driver of Crazyradio 2 should display **`(NONE)`**
 2. Select the target driver to be libusb-win32 and click install
 
